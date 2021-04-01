@@ -67,3 +67,4 @@ setuptools-git==1.2
 six==1.15.0
 smmap==4.0.0
 streamlit==0.79.0
+plotly
